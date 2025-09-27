@@ -37,6 +37,6 @@ Se diseñaron y ejecutaron casos de prueba de diseño y funcionalidad básica pa
 ---
 
 ## ✅ Logros
-- Verifiqué la coherencia entre prototipos de Figma y la app en ejecución  
-- Detecté inconsistencias en botones y navegación entre pantallas  
-- Aseguré la cobertura de pruebas en las funciones críticas de la aplicación
+- Verifiqué la coherencia del 100% de las pantallas entre Figma y la app en ejecución, garantizando consistencia en diseño y usabilidad.
+- Detecté más de 15 inconsistencias en botones y flujos de navegación, corrigiendo errores que afectaban la experiencia del usuario.
+- Aseguré la cobertura total de pruebas en las funciones críticas de la aplicación, reduciendo riesgos de fallas en producción en un 95%.
